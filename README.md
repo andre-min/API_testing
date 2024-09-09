@@ -26,5 +26,11 @@ Na raiz do projeto, você encontrará o arquivo `cypress.env.example.json`. Este
 
 Antes de executar os testes, copie o conteúdo deste arquivo para um novo arquivo chamado `cypress.env.json` e substitua os valores de exemplo pelas credenciais e URLs reais. 
 
-Certifique-se de não versionar o arquivo `cypress.env.json` para manter suas credenciais seguras.
+Certifique-se de não versionar o arquivo `cypress.env.json` para manter suas credenciais seguras.  
+
+### Resultado
+
+Após rodar os testes em backgrond, você pode visualizar os resultados detalhados. Abaixo segue um exemplo de como o resultado será exibido:
+ 
+|![](./gifs/resultado.PNG)
 
